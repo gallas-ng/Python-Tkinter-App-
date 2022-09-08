@@ -1,0 +1,107 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+table{
+	border-spacing:  10px;
+	height: 350px;
+	width: 250px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	
+	
+}
+
+.td1{
+	text-align: right;
+	font-size: 39px;
+	background-color: yellow;
+	color: black;
+	padding: 5px ;
+	border-radius:0px;
+	
+}
+table td{
+	border-radius: 10px;
+	border-collapse: separate;
+	
+}
+.tr0{
+	border-spacing: 0px;
+}
+table .tr1{
+	color: white;
+	background-color: blue;
+	text-align: center;
+	margin: 50px;
+	}
+table .tr2{
+	color: white;
+	background-color: brown;
+	text-align: center;
+}
+.td4{
+	background-color: orange;
+	
+
+	
+}
+.but1:hover{
+ border: 2px solid white;
+ color: black;
+ background-color: orange;
+}
+.but2:hover{
+ border: 2px solid white;
+ color: black;
+ background-color: orange;
+}
+.but3:hover{
+ border: 2px solid white;
+ color: black;
+ background-color: orange;
+}
+.but4:hover{
+ border: 2px solid white;
+ color: black;
+ background-color: orange;
+}
+.but5:hover{
+ border: 2px solid white;
+ color: black;
+ background-color: orange;
+}
+.but6:hover{
+ border: 2px solid white;
+ color: black;
+ background-color: orange;
+}
+.but7:hover{
+ border: 2px solid white;
+ color: black;
+ background-color: orange;
+}
+.but8:hover{
+ border: 2px solid white;
+ color: black;
+ background-color: orange;
+}
+.but9:hover{
+ border: 2px solid white;
+ color: black;
+ background-color: orange;
+}
+.but0:hover{
+ border: 2px solid white;
+ color: black;
+ background-color: orange;
+}
+.but0{
+	text-align: left ;
+	padding-left: 20px;
+}
+.pd{
+	background-color: brown;
+}
+
